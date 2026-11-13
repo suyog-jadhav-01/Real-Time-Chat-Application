@@ -94,12 +94,10 @@ http://localhost:5173
 
 ## Screenshots
 
-Add screenshots of your actual application here.
+<img width="959" height="419" alt="Screenshot 2026-11-14 000205" src="https://github.com/user-attachments/assets/baf6bd03-babb-493c-9c7d-59ad35b964ee" />
 
 ```markdown
-![Home Page](screenshots/home.png)
 
-![Chat Room](screenshots/chat.png)
 ```
 
 ## Future Improvements
